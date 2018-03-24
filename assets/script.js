@@ -36,6 +36,12 @@ var config = {
       freq: freq,
 
     });
+
+    $("#name-input").val("");
+    $("#destination-input").val("");
+    $("#time-input").val("");
+    $("#freq-input").val("");
+
   });
 
 
